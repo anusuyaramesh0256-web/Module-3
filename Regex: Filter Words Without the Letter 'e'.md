@@ -11,7 +11,7 @@ To write a Python program that filters out and returns all elements from a list 
 4. Iterate through each word in the list:
    - Use `re.search(r"e", i)` to check if the word contains `'e'`.
    - If **not**, append the word to `l1`.
-5. Print the final filtered list.
+5. Print the final filtered list
 
 ## 🧾 Program
 import re
